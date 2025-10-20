@@ -43,7 +43,7 @@ docs = [
 
 [project.urls]
 Homepage = "https://github.com/yaegi/yaegi"
-Documentation = "https://yaegi.readthedocs.io"
+Documentation = "https://github.com/ftpaio/yaegi/blob/master/guide/docs.md"
 Repository = "https://github.com/yaegi/yaegi.git"
 "Bug Tracker" = "https://github.com/yaegi/yaegi/issues"
 Changelog = "https://github.com/yaegi/yaegi/releases"
